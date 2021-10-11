@@ -1,0 +1,20 @@
+{
+    "employees":[
+        {
+            "id": 1,
+            "first_name": "Haziq",
+            "last_name": "Izzuddin",
+            "domain": "Wahdah",
+            "username": "qwe",
+            "password": "qwe"
+        },
+        {
+            "id": 2,
+            "first_name": "Muhammad",
+            "last_name": "Junaidy",
+            "domain": "Workbeat",
+            "username": "asd",
+            "password": "asd"
+        }
+    ]
+}
